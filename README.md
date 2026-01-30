@@ -4,3 +4,5 @@
 #### 각 강의를 위한 ipynb 실습코드가 포함되어 있습니다.
 #### 저작권 등의 문제로 코드 외의 사진자료 등은 포함되지 않습니다.
 #### 문의사항은 이슈를 생성하시거나 [한종대 교수 상담게시판](https://professor.knou.ac.kr/elvenwhite/12256/subview.do)에 남겨주세요.
+
+2026-01-31 : OpenAI에서 [GPT 4계열 모델을 은퇴](https://openai.com/index/retiring-gpt-4o-and-older-models/)시키겠다고 발표했습니다. API상에서는 아직 사용 가능하므로 실습에 영향은 없습니다. 이후 API에서도 은퇴하게 되면, GPT-5-nano로 대체하여 실습할 예정입니다.
